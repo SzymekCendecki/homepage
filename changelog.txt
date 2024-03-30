@@ -1,5 +1,10 @@
-polish lanuage version
+polish language version
 
 25 marca 2024
 - utworzono pliki do nowej strony domowej "Niewiernych Psów"
 - poprawiono plik README.md
+
+30 marca 2024
+- dodano przyciski nawigacji
+- dodano footer oraz kontakt mailowy
+- dodano style css
