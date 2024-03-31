@@ -8,3 +8,6 @@ polish language version
 - dodano przyciski nawigacji
 - dodano footer oraz kontakt mailowy
 - dodano style css
+
+31 marca 2024
+- dodano funkcje do przycisków -  do poprawy
