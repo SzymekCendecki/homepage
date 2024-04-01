@@ -51,6 +51,38 @@ nav{
 #main{
     width: 100%;
     height: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    scrollbar-width: thin;
+
+    .hide{
+        display: none;
+    }
+
+    .green{
+        width: 100%;
+        height: 100%;
+        background-color: rgb(24, 169, 24);
+    }
+
+    .blue{
+        width: 100%;
+        height: 100%;
+        background-color: rgb(29, 79, 242);
+    }
+
+    .orange{
+        width: 100%;
+        height: 100%;
+        background-color: rgb(249, 146, 28);
+    }
+
+    .yellow{
+        width: 100%;
+        height: 100%;
+        background-color: rgb(253, 245, 34);
+    }
 }
 
 footer{
@@ -66,4 +98,8 @@ footer{
     p{
         width: 20%;
     }    
+}
+
+.hide{
+    display: none;
 }
