@@ -15,3 +15,6 @@ polish language version
 1 kwietnia 2024
 - znaleziono błąd zmiany stylów css
 - zmiana kolory tła dla home oraz games
+
+2 kwietnia 2024
+- dodano funkcje do przycisków (zmiana wyświetlania się zgodnie z zawartością - na razie zmiana tła)
