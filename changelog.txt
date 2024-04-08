@@ -21,3 +21,6 @@ polish language version
 
 3 kwietnia 2024
 - dodano treści na podstrony(?) zgodnie z ich tematyką
+
+8 kwietnia 2024
+- dodano część styli do przycisków - do poprawy wyświetlanie 
