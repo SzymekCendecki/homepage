@@ -24,3 +24,6 @@ polish language version
 
 8 kwietnia 2024
 - dodano część styli do przycisków - do poprawy wyświetlanie 
+
+9 kwietnia 2024
+- poprawka wyświetlania przycisków

@@ -70,35 +70,57 @@ nav{
         width: 100%;
         height: 100%;
         background-color: rgb(29, 79, 242);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        a {
+            width: 35%;
+            height: 17%;
+        }
+        button{
+            width: 100%;
+            height: 100%;
+        }
     }
 
     .orange{
         width: 100%;
         height: 100%;
         background-color: rgb(249, 146, 28);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        a {
+            width: 35%;
+            height: 17%;
+        }
+        button{
+            width: 100%;
+            height: 100%;
+        }
     }
 
     .yellow{
         width: 100%;
         height: 100%;
         background-color: rgb(253, 245, 34);
-    }
-
-    #games, #programs, #other{
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
         align-items: center;
+        a {
+            width: 35%;
+            height: 17%;
+        }
+        button{
+            width: 100%;
+            height: 100%;
+        }
     }
-
-    a {
-        width: 35%;
-        height: 17%;
-    }
-    button{
-        width: 100%;
-        height: 100%;
-    }
+  
+    
 }
 
 footer{
