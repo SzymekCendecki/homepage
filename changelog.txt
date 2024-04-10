@@ -27,3 +27,6 @@ polish language version
 
 9 kwietnia 2024
 - poprawka wyświetlania przycisków
+
+10 kwietnia 2024
+- poprawki koloru przycisków i tekstu.
